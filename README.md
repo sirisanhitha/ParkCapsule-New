@@ -4,9 +4,4 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 ![Screenshot 2025-02-18 094354](https://github.com/user-attachments/assets/416c98d1-bf19-4f8f-93cd-3eacd709afbd)
 
 https://park-capsule-new.vercel.app/
-cd frontend
-yarn add
-yarn dev
-cd backend
-npm install
-npm run serve
+
